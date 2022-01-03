@@ -1,0 +1,16 @@
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.exe
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.deps.json
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.runtimeconfig.json
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.runtimeconfig.dev.json
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.dll
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\ref\Zadania3.dll
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\bin\Debug\net5.0\Zadania3.pdb
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.dll
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\ref\Zadania3.dll
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.pdb
+C:\Users\Jakub\source\repos\Zadania3\Zadania3\obj\Debug\net5.0\Zadania3.genruntimeconfig.cache
